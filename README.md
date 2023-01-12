@@ -1,5 +1,8 @@
 # flutter_drag_drop_list
 
+## Preview
+<img src="https://github.com/thecvcoder/flutter_drag_drop_list/blob/master/preview/ezgif-1-15205566ed.gif" style="width: 500px" />
+
 A new Flutter project.
 
 ## Getting Started
